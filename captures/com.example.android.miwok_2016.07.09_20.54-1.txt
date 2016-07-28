@@ -1,0 +1,102 @@
+Applications Graphics Acceleration Info:
+Uptime: 63821068 Realtime: 90658418
+
+** Graphics info for pid 20098 [com.example.android.miwok] **
+
+Recent DisplayList operations
+            ClipRect
+            DrawText
+            RestoreToCount
+          DrawDisplayList
+            Save
+            ClipRect
+            DrawText
+            RestoreToCount
+          DrawDisplayList
+            Save
+            ClipRect
+            DrawText
+            RestoreToCount
+          DrawDisplayList
+            Save
+            ClipRect
+            DrawText
+            RestoreToCount
+          DrawDisplayList
+            Save
+            ClipRect
+            DrawText
+            RestoreToCount
+          RestoreToCount
+        DrawPatch
+      DrawDisplayList
+        DrawRect
+        DrawDisplayList
+          DrawDisplayList
+            Save
+            ClipRect
+            DrawText
+            RestoreToCount
+          DrawDisplayList
+            Save
+            ConcatMatrix
+            SetupColorFilter
+            DrawBitmap
+            ResetColorFilter
+            RestoreToCount
+      DrawPatch
+  RestoreToCount
+DrawRect
+DrawRect
+multiDraw
+  DrawText
+DrawText
+DrawPatch
+DrawPatch
+DrawBitmap
+
+(ms)                     total       count     average         max
+DrawRect                  3.38          20        0.17        2.43
+DrawText                  1.21           8        0.15        0.63
+DrawBitmap                1.16           3        0.39        0.99
+DrawPatch                 0.79          10        0.08        0.44
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            29952 / 41943040
+  LayerCache                  0 / 16777216
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 / 10485760
+  TextDropShadowCache         0 /  2097152
+  PatchCache                192 /   131072
+  FontRenderer 0 A8     1179648 /  1179648
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total  1179648 /  1179648
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  1209792 bytes, 1.15 MB
+
+Profile data in ms:
+
+	com.example.android.miwok/com.example.android.miwok.MainActivity/android.view.ViewRootImpl@41df0a38
+	Draw	Process	Execute
+
+	com.example.android.miwok/com.example.android.miwok.NumbersActivity/android.view.ViewRootImpl@41e4ab70
+	Draw	Process	Execute
+	5.70	1.09	2.23
+
+View hierarchy:
+
+  com.example.android.miwok/com.example.android.miwok.MainActivity/android.view.ViewRootImpl@41df0a38
+  16 views, 0.00 kB of display lists, 2 frames rendered
+
+  com.example.android.miwok/com.example.android.miwok.NumbersActivity/android.view.ViewRootImpl@41e4ab70
+  23 views, 3.61 kB of display lists, 3 frames rendered
+
+
+Total ViewRootImpl: 2
+Total Views:        39
+Total DisplayList:  3.61 kB
+

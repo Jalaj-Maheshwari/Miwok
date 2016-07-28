@@ -1,0 +1,89 @@
+AGGREGATED OVER LAST 24 HOURS:
+Per-Package Stats:
+  * com.example.android.miwok / u0a163:
+      * com.example.android.miwok / u0a163:
+               TOTAL: 3.4% (6.2MB-7.7MB-8.7MB/5.7MB-6.7MB-7.7MB over 35)
+                 Top: 3.4% (6.2MB-7.7MB-8.7MB/5.7MB-6.7MB-7.7MB over 35)
+          (Last Act): 1.9% (6.5MB-7.8MB-8.9MB/5.8MB-6.8MB-8.0MB over 6)
+            (Cached): 1.6% (6.3MB-7.2MB-8.0MB/5.6MB-6.4MB-7.2MB over 7)
+
+Summary:
+  * com.example.android.miwok / u0a163:
+           TOTAL: 3.4% (6.2MB-7.7MB-8.7MB/5.7MB-6.7MB-7.7MB over 35)
+             Top: 3.4% (6.2MB-7.7MB-8.7MB/5.7MB-6.7MB-7.7MB over 35)
+      (Last Act): 1.9% (6.5MB-7.8MB-8.9MB/5.8MB-6.8MB-8.0MB over 6)
+        (Cached): 1.6% (6.3MB-7.2MB-8.0MB/5.6MB-6.4MB-7.2MB over 7)
+
+Run time Stats:
+  SOff/Norm: +14h11m1s290ms
+       Mod : +23m10s513ms
+       Low : +4m6s479ms
+       Crit: +3m50s320ms
+  SOn /Norm: +2h47m8s20ms
+       Mod : +10m38s170ms
+       Low : +1m43s320ms
+       Crit: +1m39s648ms
+      TOTAL: +17h43m17s760ms
+
+          Start time: 2016-07-08 19:43:36
+  Total elapsed time: +1d1h10m46s781ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+Per-Package Stats:
+  * com.example.android.miwok / u0a163:
+      * com.example.android.miwok / u0a163:
+               TOTAL: 4.7% (7.0MB-7.3MB-7.6MB/6.0MB-6.4MB-6.8MB over 5)
+                 Top: 4.7% (7.0MB-7.3MB-7.6MB/6.0MB-6.4MB-6.8MB over 5)
+          (Last Act): 3.2% (7.8MB-7.8MB-7.8MB/6.9MB-6.9MB-6.9MB over 1)
+            (Cached): 4.0%
+
+Summary:
+  * com.example.android.miwok / u0a163:
+           TOTAL: 4.7% (7.0MB-7.3MB-7.6MB/6.0MB-6.4MB-6.8MB over 5)
+             Top: 4.7% (7.0MB-7.3MB-7.6MB/6.0MB-6.4MB-6.8MB over 5)
+      (Last Act): 3.2% (7.8MB-7.8MB-7.8MB/6.9MB-6.9MB-6.9MB over 1)
+        (Cached): 4.0%
+
+Run time Stats:
+  SOff/Norm: +33m1s180ms
+       Mod : +3m44s724ms
+       Low : +3m10s539ms
+       Crit: +2m17s664ms
+  SOn /Norm: +27m19s707ms
+       Mod : +1m41s665ms
+       Low : +5s776ms
+       Crit: +25s225ms
+      TOTAL: +1h11m46s480ms
+
+          Start time: 2016-07-09 18:10:55
+  Total elapsed time: +2h43m34s346ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+Per-Package Stats:
+  * com.example.android.miwok / u0a163:
+      * com.example.android.miwok / u0a163:
+               TOTAL: 4.6% (7.0MB-7.3MB-7.6MB/6.0MB-6.4MB-6.8MB over 5)
+                 Top: 4.6% (7.0MB-7.3MB-7.6MB/6.0MB-6.4MB-6.8MB over 5)
+          (Last Act): 3.2% (7.8MB-7.8MB-7.8MB/6.9MB-6.9MB-6.9MB over 1)
+            (Cached): 4.0%
+
+Summary:
+  * com.example.android.miwok / u0a163:
+           TOTAL: 4.6% (7.0MB-7.3MB-7.6MB/6.0MB-6.4MB-6.8MB over 5)
+             Top: 4.6% (7.0MB-7.3MB-7.6MB/6.0MB-6.4MB-6.8MB over 5)
+      (Last Act): 3.2% (7.8MB-7.8MB-7.8MB/6.9MB-6.9MB-6.9MB over 1)
+        (Cached): 4.0%
+
+Run time Stats:
+  SOff/Norm: +33m1s180ms
+       Mod : +3m44s724ms
+       Low : +3m10s539ms
+       Crit: +2m17s664ms
+  SOn /Norm: +27m19s312ms (running)
+       Mod : +1m41s665ms
+       Low : +5s776ms
+       Crit: +25s225ms
+      TOTAL: +1h11m46s85ms
+
+          Start time: 2016-07-09 18:10:55
+  Total elapsed time: +2h43m34s390ms (partial) libdvm.so chromeview
