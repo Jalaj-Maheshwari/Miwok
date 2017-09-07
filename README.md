@@ -1,8 +1,8 @@
 Miwok App
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+Miwok is an endangered language of South East America. One of the sole purpose of this application is to act as a prototype for a typical language trainer application, which can be extended to teach some Indian languages, which are on the verge of extinction. 
+Thus helping us to conserve some traditional languages.
 
 Pre-requisites
 --------------
