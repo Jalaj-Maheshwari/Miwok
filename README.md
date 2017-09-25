@@ -1,6 +1,6 @@
 Miwok App
 ===================================
-A weather App
+A Language Trainer App
 
 Miwok is an endangered language of South East America. One of the sole purpose of this application is to act as a prototype for a typical language trainer application, which can be extended to teach some Indian languages, which are on the verge of extinction. 
 Thus helping us to conserve some traditional languages.
